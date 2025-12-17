@@ -154,6 +154,19 @@ Outputs:
 - AI/ML portfolio projects
 
 ---
+##Technical Skills
+
+LLMs: LLaMA 3, Hugging Face Transformers, Prompt Engineering, Quantized Inference (4-bit, bitsandbytes)
+
+RAG: LlamaIndex, Hybrid Retrieval (BM25 + Dense), Query Fusion, Re-ranking, Chat History Memory
+
+Search & IR: BM25, Semantic Search, Cross-Encoder Re-ranking
+
+Vector Databases: ChromaDB, Embeddings (Sentence-Transformers)
+
+Evaluation: RAG Triad (Correctness, Faithfulness, Relevancy), LLM-based Evaluation
+
+Programming & Tools: Python, Jupyter Notebook, Linux
 
 ## 👤 Author
 
