@@ -69,8 +69,8 @@ Answer
 ```
 .
 ├── data/
-│   ├── raw_documents/
-│   └── processed_chunks/
+│   ├── cache/
+│   └── index_store/
 │
 ├── Build_data.ipynb        # Document processing & indexing
 ├── RAG.ipynb               # Retrieval, inference & evaluation
